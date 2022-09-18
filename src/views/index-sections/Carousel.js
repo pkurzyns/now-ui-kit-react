@@ -2,7 +2,7 @@ import React from "react";
 
 // reactstrap components
 import {
-  Container,
+  Container, 
   Row,
   Col,
   Carousel,
